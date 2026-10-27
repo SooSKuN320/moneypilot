@@ -1,0 +1,1 @@
+MoneyPilot v0.6: 個人別の曜日時給設定。既存のmoneypilot-v1保存データ互換。更新前にJSONバックアップ推奨。GitHub Pagesのindex.htmlとsw.jsを置換してください。
